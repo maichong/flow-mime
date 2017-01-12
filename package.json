@@ -1,0 +1,19 @@
+{
+  "name": "flow-mime",
+  "version": "0.1.0",
+  "description": "mime flow declarations",
+  "keywords": ["flow", "mime"],
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/flow-mime.git"
+  },
+  "author": "Liang <liang@maichong.it> (https://github.com/liangxingchen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/flow-mime/issues"
+  },
+  "homepage": "https://github.com/maichong/flow-mime#readme"
+}
